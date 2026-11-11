@@ -1,0 +1,36 @@
+com.pazugames.pizza, Pizza maker cooking games: Baking & food making for kids
+com.imayi.dinodrivefree,Dinosaur Smash: Games for kids
+com.vertovov.funnyteeth,Funny Teeth kid dentist care! Games for girls boys
+com.tocaboca.tocalifeworld,Toca Life World: Build stories
+com.playtoddlers.urbancitystories.free,Urban City Stories
+com.syubestgames.teachersimulator,Teacher Simulator
+com.eggrollgames.stickerfarmfree,Farm Story Maker Activity Game
+com.spinmaster.enterprise.colleggtibles,Hatchimals CollEGGtibles
+com.mtvn.hdcrimewarpapp,Henry Danger Crime Warp
+com.orionsmason.ballerinapuzzlesfree,Ballerina Puzzles for Kids
+com.warducks.smooshymushy,My Smooshy Mushy - Cute Pets
+com.paperboatapps.google.kiddopia,Kiddopia
+com.aiInteractive.TheEnchantedWorld,Icon image The Enchanted World
+com.amayasoft.bookstorem4.en,Fairy TALES Children' Books
+com.bimiboo.kids.cooking.games,Kids cooking games: 2 year olds
+com.lego.friends.heartlake,Lego® Friends: Heartlake Rush
+com.matryoshka.royal.cooking.kitchen.madness,Royal Cooking: Cooking mania
+com.mergegames.gossipharbor,Gossip Harbor®: Merge & Story
+com.nlabsoft.defense.tinywarriors,Tiny Warriors Rush
+mytown.home,My Town World - Mega City game
+net.peakgames.match,Match Factory
+com.lego.friends.heartlake,Lego® Friends: Heartlake Rush
+com.logicappkids,LogicLike · Kids Preschool Games
+com.mergegames.gossipharbor,Gossip Harbor®: Merge & Story
+farm.parking.game,Farm Jam: Parking 3D puzzle
+com.tree.idle.catsnackbar,Cat Snack Bar: Cat Food Tycoon
+com.actionfit.blockcat,Box Cat Jam : Block Match
+com.bimiboo.drawing,Kids Colouring & Drawing Games
+com.TeachMonsterGames.NumberSkills,Teach Monster Number Skills
+org.teachyourmonster.adventurouseating,Adventurous Eating Game
+com.avokiddo.games.thinkrolls_kings_and_queens,Thinkrolls: King & Queens
+com.drpanda.town.street,Dr.Panda Town Tales
+com.headstartint.publishing.zoodio.world,Zoodio World: Games for kids
+com.learnyland.codelandteens,Code Teens: Coding for kids
+com.tribeplay.toycars.fun,Dr.Panda Toy Cars
+com.budgestudios.BarbieMagicalFashion,Barbie Magical Fashion

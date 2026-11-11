@@ -1,0 +1,285 @@
+com.playtoddlers.sweethomestories.free,Sweet Home Stories
+com.abi.satisort,Satisdom
+com.storytoys.lego.duplo.peppa.pig.googleplay,LEGO DUPLO PEPPA PIG
+net.speedymind.mental.arithmetic.trainer.learning.games.practice.k5.grade.math.vs.slimes,Math games for kids: Fun facts
+com.haegin.playtogether,Play Together
+com.pazugames.avatarworld,Avatar World ®
+com.Polystation.BuildABabe,Build A Queen
+com.savetheworld.game,My Little Universe
+com.ludigames.android.anmp.idle.siege,Idle Siege: War Tycoon Game
+com.shimmergames.tenants.gp,Rent Please!-Landlord Sim
+com.duckduckmoosedesign.km,Moose Math by Duck Duck Moose
+pl.idreams.cotd,Creatures of the Deep: Fishing
+jp.pokemon.pokemoncafemix,Pokémon Café ReMix
+com.lego.friends.heartlake,Lego® Friends: Heartlake Rush
+com.budgestudios.googleplay.FrozenFRZ,Disney Frozen Royal Castle
+dk.tactile.lilysgarden,Lily’s Garden - Design & Relax
+com.noodlecake.superliminal,Superliminal
+com.bbumgames.opa,OPA! - Family Card Game
+com.amayasoft.bookstorem4.en,Fairy TALES Children' Books
+com.dancing.smash.hop.game.tiles.circles.beat.piano.beatracing.soniccat2,Blade Master
+com.miramerge,Star Merge: Merging Match Game
+com.budgestudios.googleplay.MyLittlePonyMLG,My Little Pony World
+com.edujoy.masha.games,Masha and the Bear Educational
+com.daveandava.numbers,Numbers from Dave and Ava
+io.monumental.cardclash,Nickelodeon Card Clash
+com.TeachMonsterGames.NumberSkills,Teach Monster Number Skills
+org.scratchjr.android,ScratchJr
+com.actionfit.blockcat,Box Cat Jam : Block Match
+com.fc.nut.screw.bolt.washer.fastener.puzzle,Screw Puzzle: Wood Nut & Bolt™
+com.kitkagames.fallbuddies,Stumble Guys
+by.dls.sunnybunnies.coloringbook,Sunny Bunnies: Coloring Book
+com.atknsyl.weaponmaster,Weapon Master: Action Gun Game
+com.supercell.clashroyale,Clash Royale
+com.bimiboo.firstwords,Toddler flashcards for kids
+com.peppapig.worldofpeppapig_g,World of Peppa Pig: Kids Games
+com.gleamgames.everblast,EverBlast - Blast and Match
+com.gameloft.android.ANMP.GloftPOHM,My Little Pony: Magic Princess
+com.prodigygame.prodigy,Prodigy Math: Kids Game
+org.teachyourmonster.adventurouseating,Adventurous Eating Game
+com.homagames.studio.allinhole,All in Hole
+com.bimiboo.kids.preschool.games,Bimi Boo World: Toddler Games
+com.storytoys.disney.pixar.coloring.princess.googleplay,Disney Coloring World
+com.sinyee.babybus.safetytips,Sheriff Labrador's Safety Tips
+com.tree.idle.catsnackbar,Cat Snack Bar: Cat Food Tycoon
+com.groplay.alfons123,Play 123, Alfie Atkins
+com.storytoys.myveryhungrycaterpillar.free.android.googleplay,My Very Hungry Caterpillar
+com.matryoshka.royal.cooking.kitchen.madness,Royal Cooking: Cooking mania
+com.imayi.jurassicdigfree,Jurassic Dig - Games for kids
+tv.alphablocks.numberblocksworld,Numberblocks World
+com.runawayplay.bunnygame,Bunny Haven - Cute Cafe
+com.master.hotelmaster,My Perfect Hotel
+com.logicappkids,LogicLike · Kids Preschool Games
+com.learnyland.codeland,Code Land: Coding for Kids
+com.nlabsoft.defense.tinywarriors,Tiny Warriors Rush
+com.pokemon.pokemonplayhouse,Pokémon Playhouse
+com.together.CrazyBus,Bus Mania - Car Parking Jam
+com.bimiboo.drawing,Kids Colouring & Drawing Games
+com.aiInteractive.TheEnchantedWorld,The Enchanted World
+com.budgestudios.googleplay.BlueyBLU,Bluey: Let's Play!
+mytown.home,My town: Home Family Playhouse
+com.lego.common.legoplay,LEGO® Play
+com.kiwigames.idle.dessert.cafe.android,Happy Dessert Cafe
+ltd.funexpected.math,Funexpected Math (Kids 3-7)
+com.minibitstudio.game,Busyboard - games for kids
+com.abi.perfect.tidy,Perfect Tidy
+com.tocaboca.tocalifeworld,Toca Boca World
+com.fuzzyhouse.wonderwoollies,Wonder Woollies Play World
+com.vjsjlqvlmp.wearewarriors,We Are Warriors!
+com.libii.march,SuitU: Fashion Avatar Dress Up
+com.SekGames.PoliceStationIDLE,Police Station Idle
+io.supercent.meowmeowbakery,Meow Bakery
+com.duckduckmoosedesign.fish,Fish School by Duck Duck Moose
+com.budgestudios.googleplay.ThomasAndFriendsMagicalTracks,Thomas & Friends: Magic Tracks
+com.PepiPlay.KingsCastle,Pepi Wonder World: Magic Isle!
+com.storytoys.sesame.street.mecha.builders.googleplay,Sesame Street Mecha Builders
+com.nianticlabs.pikmin,Pikmin Bloom
+com.gamedots.seasideescape,Seaside Escape®: Merge & Story
+com.sinyee.babybus.garden,Little Panda's Farm
+com.quartsoft.farland,Farland: Farm Village
+com.budgestudios.googleplay.MiraculousMIR,Miraculous Ladybug Life
+onetap.game.pencil.sort,Pencil Sort
+com.turborocketgames.wildcraft,WildCraft: Animal Sim Online
+mytown.mytownworld,My Town World - Mega Doll City
+com.dancing.smash.hop.game.tiles.circles.beat.piano.beatracing,Beat Racing
+com.unicostudio.fakeisland,Fake Island: Demolish!
+com.alien.shooter.galaxy.attack,Galaxy Attack: Shooting Game
+tv.alphablocks.colourblocksworld,Colourblocks World
+com.mergegames.gossipharbor,Gossip Harbor®: Merge & Story
+com.amelosinteractive.snake,Snake.io - Fun Snake .io Games
+net.peakgames.match,Match Factory
+com.educational.baby.games,Baby Games for 1-3 Year Olds
+com.onemt.and.kc,King's Choice
+com.imayi.monstertruckgofree,Monster Truck Go: Racing Games
+com.imayi.jurassicrescuefree,Jurassic Rescue Dinosaur games
+com.tutotoons.app.fruitsies,Fruitsies - Pet Friends
+com.vorsz.edupark,Lop abd Friends
+bibi.pet.games.explorer.magic,Unicorn Academy: Magic School
+com.iabuzz.mazerunner,Maze game - Kids puzzle games
+com.kolka.magic,Wizario
+com.tutotoons.app.cathairsalonbirthdayparty.free,Cat Hair Salon Birthday Party
+com.robtopx.geometryjump,Geometry Dash
+com.gamos.learning.games.kids.beardy.bodo,Learning games for Kids. Bodo
+de.wonderkind.puzzle,Puzzle Shapes: Games Toddlers
+com.pepiplay.pepiride,Pepi Ride: fun car racing
+com.game.space.shooter2,Space shooter - Galaxy attack
+com.imayi.danceparty,Dance Party Coding for kids
+com.screw.away.pin.puzzle.and,Screw Away: 3D Pin Puzzle
+bibi.pet.games.dinosaurs,Bibi Dinosaurs games for kids
+com.groplay.tutalfonsaberg,Beep, beep, Alfie Atkins
+com.ninjakiwi.btdadventuretime,Bloons Adventure Time TD
+com.learnyland.codelandteens,Code Teens: Coding for kids
+com.laboladoapp.labo_doodle,Labo Doodle-Drawing Art Educat
+com.intellijoy.kids.academy,Intellijoy Kids Academy
+com.papoworld.apps.summerbeach,Purple Pink Summer Beach
+com.bubadu.duddu,Duddu - My Virtual Pet Dog
+com.nintendo.zaca,Animal crossing: Pocket Camp
+com.ahoiii.FieteCars,Kids car racing game - Fiete
+com.playhome.plus,My PlayHome Plus
+com.drawing.pad.desk.app.coloring.book.paint.sketch,Drawing Apps: Draw, Sketch Pad
+com.sagosago.MathTango.googleplay,MathTango: Grades k-5 Learning
+com.learnyland.animals,The Animals: Animal Kids Games
+com.pazugames.sushimaker,Sushi Maker Kids Cooking Games
+com.lingoany.myfirsteng,My First English
+com.imayi.clawmachine,Dinosaur Claw Machine:for kids
+com.tutotoons.app.candylockshairsalon.free,Candylocks Hair Salon
+com.gamesforkids.animals.puzzles.jigsaw,Animal Puzzle & Games for Kids
+com.imayi.dinomath,Dinosaur Math - Games for kids
+com.sinyee.babybus.talk2kiki.global,Baby Panda's House Games
+com.iz.kids.fireman.fire.station.fighter.truck.safety.games,Fire Truck Games Firefighter
+com.kids.Alphabet.number.piano.Game.Free,ElePant Kids Educational Games
+com.sinyee.babybus.restaurant,Little Panda's Restaurant
+es.monkimun.stlrunnervegetables,Runner Game by Lingokids
+com.idz.additionsubtractiongames,Addition and Subtraction Games
+com.halfbrick.FishOutOfWater,Fish Out Of Water!
+com.imayi.trainbuilderfree,Train Builder Games for kids
+com.fuzzyhouse.MiniMorfiMath,Mini Morfi Math
+com.capcom.smurfsandroid,Smurfs' Village
+com.europosit.pixelcoloring,Pixel Art - Color by Number
+com.belkatechnologies.clockmaker,Clockmaker - Match 3 Adventure
+com.nintendo.zara,Super Mario Run
+com.psv.vlad_and_niki.birthday_party,Vlad and Niki: Birthday Party
+com.TheHohngCompany.Cubistry,Cubistry
+com.imayi.catgames,Cat Games for kids
+com.headstartint.publishing.zoodio.world,Zoodio World: Games for kids
+com.papoworld.apps.papotownseasons,Papo Town Seasons
+com.tree.idle.cat.academy,Cat Magic School : Cute Tycoon
+io.whitesharx.moon,Gold Rush: Frozen Adventures
+mytown.stores,My Town : Stores
+com.sinyee.babybus.market,Little Panda's Game: My World
+com.dreamgames.royalkingdom,Royal Kingdom
+com.sinyee.babybus.rescueII,Baby Panda: Care for animals
+com.imayi.topia,Topia World: Avatar Life World
+com.hyperbeard.pocketlove,Pocket Love
+bibi.pet.games.abc,Learn to Read ABC Games
+com.hitappsgames.picturebuilder,Picture Builder - Puzzle Game
+com.ea.gp.bej3,Bejeweled Classic
+com.bonbongame.life.world.kids.games,BonBon Life World Make Stories
+com.zinkia.pocoyo.hiddenobjects,Pocoyo and the Hidden Objects.
+com.dramaton.slime,Super Slime Simulator: DIY Art
+com.dramaton.rockart,Rock Art - 3D Color by Number
+com.DefaultCompany.HoboLife,Street Dude - Homeless Empire
+farm.parking.game,Farm Jam: Parking 3D puzzle
+com.no1ornothing.color.water.sort.woody.puzzle,Color Water Sort Woody Puzzle
+com.millecrepestudios.eva,Become a Justice Queen
+bibi.pet.games.explorer.farm,Bibi Farm: Games for Kids 2-5
+com.playdatedigital.playdohabcsfreemium,Icon image PLAY-DOH Create ABCs
+eu.bandainamcoent.pacman256,PAC-MAN 256 - Endless Maze
+com.fingersoft.hillclimb,Hill Climb Racing
+com.imayi.dinorocket,Dinosaur Rocket Games for kids
+com.youmusic.magictiles,Magic Tiles 3
+com.anvil.skirt,Hover Skirt: stack & dress up
+com.papoworld.world.school,Papo Town School Life
+com.avokiddo.games.thinkrolls_kings_and_queens,Thinkrolls: King & Queens
+com.devgame.booba.cooking.kids.games,Booba Kitchen: Kids Cooking!
+com.giuliaolivares.noahsark.animalibrium,Kids Animal Ark: Zoo Games
+com.kokotots.forestanimals,Learn Forest Animals for Kids
+com.tribeplay.toycars.fun,Dr.Panda Toy Cars
+com.defender.dude,Zombiepunk: Fight & Survive
+bibi.pet.games.explorer.lunapark,Bibi Theme Park: Baby Game 2-5
+com.soulgit.age2048,Age of 2048™: City Merge Games
+com.drpanda.town.street,Dr.Panda Town Tales
+com.lilacwoodgames.oilman,Oilman
+com.drpanda.town.holiday,Dr. Panda Town: Vacation
+com.millecrepestudios.weaponshop,Weapon Master 3D
+com.studiopango.logicisland,Pango One Road : logical maze
+com.Metrafilms.KidECatsDollHouse,Kid-E-Cats Playhouse
+com.dingogames.clumsycat,Clumsy cat
+pl.idreams.Dino,Crazy Dino Park
+com.laboladoapp.labo_brick_car2.pk,Labo Brick Car 2 Game for Kids
+com.hpcpj.slimecleaner,Slime Sweep: 3D Cleaning Game
+com.topchopgames.skyroller,Sky Roller
+com.iabuzz.puzzle4kidsAnimals,Animals Puzzle for Kids
+jp.pokemon.pokemontcgp,Pokémon TCG Pocket
+air.com.starfall.ltr,Starfall Learn to Read
+com.sega.sonicdash,Sonic Dash Endless Fun Running
+com.groplay.lassemaja,The JerryMaya Detective Agency
+com.pizza.maker.game.baking.making.cooking,Pizza Maker Kids Cooking Games
+com.kahoot.numbers,Kahoot! Numbers by DragonBox
+com.rinzz.gym,Gym Sort
+com.originatorkids.EndlessWordplay,Endless Wordplay
+com.magisterapp.carsforkids,Puppy Cars – Kids Racing Game
+com.kokotots.solarkokotots,Solar System for kids
+com.hyperbeard.hamsterinn,Hamster Inn
+com.taptaptales.octonautsgiantsquid,Octonauts and the Giant Squid
+com.thg.gudigood,Gudi Good
+bibi.pet.games.explorer.world,Bibi World: Baby & Kids Games
+com.arizonags.afktd,AFK Magic TD
+com.imayi.dinocity,Dinosaur City: Building Games
+com.orcas.panthia.island.fairyscapes,Panthia-Magical Merge Game
+com.groplay.growforest,Grow Forest
+com.sinyee.babybus.earthquake,Baby Panda Earthquake Safety 1
+com.duckduckmoosedesign.kindread,Duck Duck Moose Reading
+com.kokotots.bugsworld,Bugs Insects kids Learn & Play
+com.storytoys.lego.duplo.marvel.spiderman.avengers.kids.preschool.free.googleplay,LEGO® DUPLO® Marvel
+gas.station.idle,Gas Station Simulator Tycoon
+bibi.pet.games.explorer.home,Bibi Home Explorer
+tv.skyship.supersimple,Super Simple Chansons Enfants
+com.playtoddlers.centralhospitalstories.free,Central Hospital Stories
+com.studiopango.halloween,Pango Halloween Memory Match
+bibi.pet.bibiland,BibiLand Games for Toddlers 2+
+com.pinestreetcodeworks.TinyBubbles,Tiny Bubbles
+com.pjmasks.powerheroes,PJ Masks™: Power Heroes
+com.kahoot.read,Kahoot! Learn to Read by Poio
+com.western.escape,West Escape
+com.ea.BejeweledBlitz_na,Bejeweled Blitz
+com.pi.tiny.commander,Tiny Commander
+com.gilbertjolly.teachphonics.teachers,Jolly Phonics Lessons
+com.budgestudios.BarbieMagicalFashion,Barbie Magical Fashion
+com.snapbreak.doors2,Doors: Origins
+com.budgestudios.StrawberryShortcakeDressUpDreams,Strawberry Shortcake Dress Up
+com.giantssoftware.fs20.google,Farming Simulator 20
+com.playdigious.potionpermit,Potion Permit
+com.intellijoy.drawwithshapes,Kids Draw with Shapes
+com.neutronized.supercattalespaws,Super Cat Tales: PAWS
+nz.co.codepoint.minimetro,Mini Metro
+es.brokenrul.eloh,ELOH
+com.mythicowl.asmr.oneline.color.puzzle.shapes,Lineverse: One-Line Coloring
+com.sagosago.School.googleplay,Sago Mini School (Kids 2-5)
+com.infinity.railways,Railways - Train Simulator
+com.greenheartgames.gdt,Game Dev Tycoon
+com.LearnyLand.Bugs2,Bugs 2: What Are They Like?
+com.sesameworkshop.eway.play,Elmo's World and You
+com.snapbreak.lip,Lost in Play
+com.sesameworkshop.alphabetkitchen.play,Sesame Street Alphabet Kitchen
+com.hungrysky.nekograms,Nekograms
+com.edokiacademy.busyshapesandcolors,Busy Shapes & Colors
+no.hypergames.hokuspokuspremium,Hocus Pocus Alfie Atkins
+com.lozangelab.swimout.googleplay,Swim out
+com.crayolallc.crayola_create_and_play,Crayola Create & Play
+com.bubadu.cleanupkids,Clean Up Kids
+com.grapefrukt.games.bore,Holedown
+com.adriaandejongh.hiddenfolks,Hidden Folks
+com.gridpop.isleofarrowsandroid,Isle of Arrows - Tower Defense
+com.edujoy.baby.playground,Baby Playground - Learn words
+com.slothwerks.meteorfall,Meteorfall: Journeys
+com.gamesforkids.kidscargames.carwash,Car Wash & Race Games for Kids
+com.playdatedigital.lightscamerasaction,My Little Pony: Story Creator
+com.miga.world,Miga Town: My World
+com.ustwo.monumentvalley2,Monument Valley 2
+air.com.noodlecake.luminocity,Lumino City
+com.JourneyBoundGames.PathofGaints,Path of Giants
+com.smgstudio.deathsquared,Death Squared
+com.drycactus.polybridge2,Poly Bridge 2
+com.mustardgames.police.bike.stunt.mega.ramp.impossibletracks,Parking Jam: Car Parking Games
+com.thegentlebros.catquest,Cat Quest
+com.tinytitanstudios.TrainChu,Tiny Rails - Train Tycoon 2025
+com.Ilugon.counting.learning.numbers.tracing,Learning Numbers Kids Games
+com.Afterburn.Railbound,Railbound
+com.storytoys.barbiecoloring.google,Barbie Color Creations
+com.codebrewgames.pocketcity2,Pocket City 2
+com.internetdesignzone.cookingforkids,Cooking Games for Kids & Girls
+amanita_design.samorost3.GP,Samorost 3
+com.kooapps.stackybirdandroid,Stacky Bird: Fun Offline Game
+com.protostar.mowing,It's Literally Just Mowing
+com.morionstudio.hiddenobject,Hidden Objects Games
+com.edujoy.fidget.pop.it,Baby Pop It
+air.com.amanitadesign.chuchel.gp,CHUCHEL
+com.budgestudios.StrawberryShortcakeBakeShare,Strawberry Shortcake Bake Shop
+com.Level5.LT1RNA,Layton: Curious Village in HD
+com.CrazyMonkeyStudios.Hidden,Hidden Through TIme
+com.tivola.concentration,Concentration
+es.brokenrul.oldmansjourney,Old's Man's Journey
+com.iz.hospital.doctor.game.kids.girls.baby,Timpy Doctor Games for Kids
+dr.dinosaurgames.forkids,Dino Fun - Kids Games
+com.lojugames.android.Ordia,Ordia

@@ -1,0 +1,535 @@
+{'kind': 'customsearch#search',
+ 'url': {'type': 'application/json',
+         'template': 'https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json'},
+ 'queries': {'request': [{'title': 'Google Custom Search - Sago Mini World: '
+                                   'Kids Games google play',
+                          'totalResults': '399000',
+                          'searchTerms': 'Sago Mini World: Kids Games google '
+                                         'play',
+                          'count': 10,
+                          'startIndex': 1,
+                          'inputEncoding': 'utf8',
+                          'outputEncoding': 'utf8',
+                          'safe': 'off',
+                          'cx': 'c2ee34b7674f24980'}],
+             'nextPage': [{'title': 'Google Custom Search - Sago Mini World: '
+                                    'Kids Games google play',
+                           'totalResults': '399000',
+                           'searchTerms': 'Sago Mini World: Kids Games google '
+                                          'play',
+                           'count': 10,
+                           'startIndex': 11,
+                           'inputEncoding': 'utf8',
+                           'outputEncoding': 'utf8',
+                           'safe': 'off',
+                           'cx': 'c2ee34b7674f24980'}]},
+ 'context': {'title': 'applifinder'},
+ 'searchInformation': {'searchTime': 0.227005,
+                       'formattedSearchTime': '0.23',
+                       'totalResults': '399000',
+                       'formattedTotalResults': '399,000'},
+ 'items': [{'kind': 'customsearch#result',
+            'title': 'Sago Mini World: Kids Games - Apps on Google Play',
+            'htmlTitle': '<b>Sago Mini World</b>: <b>Kids Games</b> - Apps on '
+                         '<b>Google Play</b>',
+            'link': 'https://play.google.com/store/apps/details?id=com.sagosago.World.googleplay&hl=en_US&gl=US',
+            'displayLink': 'play.google.com',
+            'snippet': 'COPPA and kidSAFE-certified and no in-app purchases or '
+                       'ads for subscribers, Sago Mini World provides digital '
+                       'entertainment parents can feel good about. Designed\xa0'
+                       '...',
+            'htmlSnippet': 'COPPA and kidSAFE-certified and no in-app '
+                           'purchases or ads for subscribers, <b>Sago Mini '
+                           'World</b> provides digital entertainment parents '
+                           'can feel good about. Designed&nbsp;...',
+            'cacheId': 'D2oZ8mpfIeUJ',
+            'formattedUrl': 'https://play.google.com/store/.../details?...sagosago.World.googleplay...',
+            'htmlFormattedUrl': 'https://<b>play</b>.<b>google</b>.com/store/.../details?...<b>sagosago</b>.<b>World</b>.<b>googleplay</b>...',
+            'pagemap': {'offer': [{'price': '0',
+                                   'url': 'https://play.google.com/store/apps/details?id=com.sagosago.World.googleplay&rdid=com.sagosago.World.googleplay&feature=md&offerId'}],
+                        'cse_thumbnail': [{'src': 'https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRlEagaFGKBK7-fYeM9OT51G4arFCEjq5oJx9copcvhtjP6IQsHx6AvQgk',
+                                           'width': '225',
+                                           'height': '225'}],
+                        'metatags': [{'og:image': 'https://play-lh.googleusercontent.com/i34mlgU3WWNppU7la0O4QSAXJ6AeO4k3MmJC3FvWw8-Uo8BLBCURd3r5WnaNkVeRlQ',
+                                      'og:type': 'website',
+                                      'twitter:card': 'summary_large_image',
+                                      'twitter:title': 'Sago Mini World: Kids '
+                                                       'Games - Apps on Google '
+                                                       'Play',
+                                      'twitter:url': 'https://play.google.com/store/apps/details?id=com.sagosago.World.googleplay&hl=en_US',
+                                      'appstore:developer_url': 'https://sagomini.com/world',
+                                      'og:title': 'Sago Mini World: Kids Games '
+                                                  '- Apps on Google Play',
+                                      'twitter:image': 'https://play-lh.googleusercontent.com/i34mlgU3WWNppU7la0O4QSAXJ6AeO4k3MmJC3FvWw8-Uo8BLBCURd3r5WnaNkVeRlQ=w600-h300-pc0xffffff-pd',
+                                      'appstore:bundle_id': 'com.sagosago.World.googleplay',
+                                      'referrer': 'origin',
+                                      'twitter:site': '@GooglePlay',
+                                      'appstore:store_id': 'com.sagosago.World.googleplay',
+                                      'viewport': 'width=device-width, '
+                                                  'initial-scale=1',
+                                      'apple-mobile-web-app-capable': 'yes',
+                                      'twitter:description': 'Our complete '
+                                                             'collection of '
+                                                             'games in one '
+                                                             'app!',
+                                      'mobile-web-app-capable': 'yes',
+                                      'og:url': 'https://play.google.com/store/apps/details?id=com.sagosago.World.googleplay&hl=en_US'}],
+                        'cse_image': [{'src': 'https://play-lh.googleusercontent.com/i34mlgU3WWNppU7la0O4QSAXJ6AeO4k3MmJC3FvWw8-Uo8BLBCURd3r5WnaNkVeRlQ'}]}},
+           {'kind': 'customsearch#result',
+            'title': 'Sago Mini World: Kids Games on the App Store',
+            'htmlTitle': '<b>Sago Mini World</b>: <b>Kids Games</b> on the App '
+                         'Store',
+            'link': 'https://apps.apple.com/us/app/sago-mini-world-kids-games/id874425722',
+            'displayLink': 'apps.apple.com',
+            'snippet': 'THE PERFECT APP FOR CURIOUS KIDS. Discover hours of '
+                       'creative, interactive play with 40+ award-winning '
+                       'games for kids in one app! Children aged 2-5 build,\xa0'
+                       '...',
+            'htmlSnippet': 'THE PERFECT APP FOR CURIOUS <b>KIDS</b>. Discover '
+                           'hours of creative, interactive <b>play</b> with '
+                           '40+ award-winning <b>games</b> for <b>kids</b> in '
+                           'one app! <b>Children</b> aged 2-5 build,&nbsp;...',
+            'formattedUrl': 'https://apps.apple.com/us/app/sago-mini-world-kids-games/id874425722',
+            'htmlFormattedUrl': 'https://apps.apple.com/us/app/<b>sago</b>-<b>mini</b>-<b>world</b>-<b>kids</b>-<b>games</b>/id874425722',
+            'pagemap': {'cse_thumbnail': [{'src': 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS75MqFoR7MK0YB_DrENJyiES_3TlKhpAyDh4yEQ3_IpYzn8hzGp5SDw1w',
+                                           'width': '310',
+                                           'height': '163'}],
+                        'metatags': [{'apple-itunes-app': 'app-id=375380948, '
+                                                          'app-argument=https://apps.apple.com/us/app/sago-mini-world-kids-games/id874425722',
+                                      'og:image': 'https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/6d/6a/4f/6d6a4fb0-e5a3-49e2-80d1-79f948ff5519/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png',
+                                      'og:image:width': '1200',
+                                      'twitter:card': 'summary_large_image',
+                                      'og:site_name': 'App Store',
+                                      'applicable-device': 'pc,mobile',
+                                      'og:image:type': 'image/png',
+                                      'og:description': '\u200eTHE PERFECT APP '
+                                                        'FOR CURIOUS KIDS \n'
+                                                        '\n'
+                                                        'Discover hours of '
+                                                        'creative, interactive '
+                                                        'play with 40+ '
+                                                        'award-winning games '
+                                                        'for kids in one app! '
+                                                        'Children aged 2-5 '
+                                                        'build, create, and '
+                                                        'explore with '
+                                                        'thoughtfully-designed '
+                                                        'games for toddlers '
+                                                        'that spark '
+                                                        'imagination.\n'
+                                                        '\n'
+                                                        '*** Winner of a '
+                                                        "Parents' Choice Gold "
+                                                        "Award, Webby's No…",
+                                      'og:image:secure_url': 'https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/6d/6a/4f/6d6a4fb0-e5a3-49e2-80d1-79f948ff5519/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png',
+                                      'twitter:image': 'https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/6d/6a/4f/6d6a4fb0-e5a3-49e2-80d1-79f948ff5519/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x600wa.png',
+                                      'web-experience-app/config/environment': '%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22max%22%3A1440%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222406.0.0%2B04fcb907%22%7D%2C%22MEDIA_API%22',
+                                      'twitter:image:alt': 'Sago Mini World: '
+                                                           'Kids Games on the '
+                                                           'App\xa0Store',
+                                      'twitter:site': '@AppStore',
+                                      'og:image:alt': 'Sago Mini World: Kids '
+                                                      'Games on the App\xa0'
+                                                      'Store',
+                                      'og:type': 'website',
+                                      'twitter:title': '\u200eSago Mini World: '
+                                                       'Kids Games',
+                                      'og:title': '\u200eSago Mini World: Kids '
+                                                  'Games',
+                                      'og:image:height': '630',
+                                      'version': '2406.0.0',
+                                      'globalnav-search-suggestions-enabled': 'false',
+                                      'viewport': 'width=device-width, '
+                                                  'initial-scale=1, '
+                                                  'viewport-fit=cover',
+                                      'ac-gn-search-suggestions-enabled': 'false',
+                                      'twitter:description': '\u200eTHE '
+                                                             'PERFECT APP FOR '
+                                                             'CURIOUS KIDS \n'
+                                                             '\n'
+                                                             'Discover hours '
+                                                             'of creative, '
+                                                             'interactive play '
+                                                             'with 40+ '
+                                                             'award-winning '
+                                                             'games for kids '
+                                                             'in one app! '
+                                                             'Children aged '
+                                                             '2-5 build, '
+                                                             'create, and '
+                                                             'explore with '
+                                                             'thoughtfully-designed '
+                                                             'games for '
+                                                             'toddlers that '
+                                                             'spark '
+                                                             'imagination.\n'
+                                                             '\n'
+                                                             '*** Winner of a '
+                                                             "Parents' Choice "
+                                                             'Gold Award, '
+                                                             "Webby's No…",
+                                      'og:locale': 'en_US',
+                                      'apple:content_id': '874425722',
+                                      'og:url': 'https://apps.apple.com/us/app/sago-mini-world-kids-games/id874425722'}],
+                        'cse_image': [{'src': 'https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/6d/6a/4f/6d6a4fb0-e5a3-49e2-80d1-79f948ff5519/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png'}]}},
+           {'kind': 'customsearch#result',
+            'title': 'Android Apps by Play Piknik on Google Play',
+            'htmlTitle': 'Android Apps by Play Piknik on <b>Google Play</b>',
+            'link': 'https://play.google.com/store/apps/dev?id=6600704821286067966&hl=en_US&gl=US',
+            'displayLink': 'play.google.com',
+            'snippet': 'One subscription. Endless ways to play and learn! Icon '
+                       'image. Sago Mini World: Kids Games. Play Piknik. '
+                       'Contains adsIn-app purchases.',
+            'htmlSnippet': 'One subscription. Endless ways to <b>play</b> and '
+                           'learn! Icon image. <b>Sago Mini World</b>: <b>Kids '
+                           'Games</b>. <b>Play</b> Piknik. Contains adsIn-app '
+                           'purchases.',
+            'cacheId': 'xDRsowS6ZEgJ',
+            'formattedUrl': 'https://play.google.com/store/apps/dev?id=6600704821286067966...',
+            'htmlFormattedUrl': 'https://<b>play</b>.<b>google</b>.com/store/apps/dev?id=6600704821286067966...',
+            'pagemap': {'offer': [{'price': '0',
+                                   'url': 'https://play.google.com/store/apps/details?id=com.sagosago.World.googleplay&rdid=com.sagosago.World.googleplay&feature=md&offerId'}],
+                        'cse_thumbnail': [{'src': 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS-goQ8IINvgpxd8d7i_fqJ1w6ZrCjGMeYEMTAQ2Zx3YSpA3IG0E9lMdim9',
+                                           'width': '225',
+                                           'height': '225'}],
+                        'metatags': [{'og:image': 'https://play-lh.googleusercontent.com/3G3eYw8UYb6AjHglxF0kUU1ZL3Vb0FnBn2mFe3WYzqcY0E3yXrnrOiByqTfwKrGCCY0',
+                                      'og:type': 'website',
+                                      'twitter:card': 'summary_large_image',
+                                      'twitter:title': 'Android Apps by Play '
+                                                       'Piknik on Google Play',
+                                      'twitter:url': 'https://play.google.com/store/apps/dev?id=6600704821286067966&hl=en_US&gl=US',
+                                      'og:title': 'Android Apps by Play Piknik '
+                                                  'on Google Play',
+                                      'twitter:image': 'https://play-lh.googleusercontent.com/3G3eYw8UYb6AjHglxF0kUU1ZL3Vb0FnBn2mFe3WYzqcY0E3yXrnrOiByqTfwKrGCCY0=w600-h300-pc0xffffff-pd',
+                                      'referrer': 'origin',
+                                      'twitter:site': '@GooglePlay',
+                                      'viewport': 'width=device-width, '
+                                                  'initial-scale=1',
+                                      'apple-mobile-web-app-capable': 'yes',
+                                      'twitter:description': 'One '
+                                                             'subscription. '
+                                                             'Endless ways to '
+                                                             'play and learn!',
+                                      'mobile-web-app-capable': 'yes',
+                                      'og:url': 'https://play.google.com/store/apps/dev?id=6600704821286067966&hl=en_US&gl=US'}],
+                        'cse_image': [{'src': 'https://play-lh.googleusercontent.com/3G3eYw8UYb6AjHglxF0kUU1ZL3Vb0FnBn2mFe3WYzqcY0E3yXrnrOiByqTfwKrGCCY0'}]}},
+           {'kind': 'customsearch#result',
+            'title': 'Kids Toys & Toddler Apps | Sago Mini - New World feature '
+                     '...',
+            'htmlTitle': '<b>Kids</b> Toys &amp; <b>Toddler</b> Apps | <b>Sago '
+                         'Mini</b> - New <b>World</b> feature ...',
+            'link': 'https://sagomini.com/article/new-world-feature-subscription-sharing-finally/',
+            'displayLink': 'sagomini.com',
+            'snippet': '... Sago Mini World ... Google Play ID, that has your '
+                       'World subscription on it. Learn more about World, our '
+                       'app that gives full access to all 25+ of our games, '
+                       'here.',
+            'htmlSnippet': '... <b>Sago Mini World</b> ... <b>Google Play</b> '
+                           'ID, that has your World subscription on it. Learn '
+                           'more about World, our app that gives full access '
+                           'to all 25+ of our <b>games</b>, here.',
+            'cacheId': 'iJUK9H4sFXAJ',
+            'formattedUrl': 'https://sagomini.com/article/new-world-feature-subscription-sharing-finally/',
+            'htmlFormattedUrl': 'https://<b>sagomini</b>.com/article/new-<b>world</b>-feature-subscription-sharing-finally/',
+            'pagemap': {'cse_thumbnail': [{'src': 'https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcScnoPRQ4FhNq8KOfOwpyjsySkEXDLC89l4NmZwDLQzA7a-k34y5H3GQnA',
+                                           'width': '300',
+                                           'height': '168'}],
+                        'metatags': [{'og:image': 'https://sagomini.com/workspace/uploads/blog/sagominiworld_springupdate_header-1556904091.png',
+                                      'og:type': 'website',
+                                      'og:image:width': '1920',
+                                      'og:image:url': 'https://sagomini.com/workspace/uploads/blog/sagominiworld_springupdate_header-1556904091.png',
+                                      'viewport': 'width=device-width, '
+                                                  'initial-scale=1, ui-minimal',
+                                      'og:title': 'New World feature: '
+                                                  'Subscription sharing – '
+                                                  'finally!',
+                                      'og:image:height': '1080',
+                                      'title': 'Kids Learning Apps | Kids Toys '
+                                               '& Toddler Apps | Sago Mini - '
+                                               'New World feature: '
+                                               'Subscription sharing – '
+                                               'finally!',
+                                      'og:url': 'https://sagomini.com/article/new-world-feature-subscription-sharing-finally/',
+                                      'msapplication-tileimage': 'https://sagomini.com/favicon.png',
+                                      'og:description': 'Discover articles for '
+                                                        'parents, '
+                                                        'behind-the-scenes on '
+                                                        'our educational apps, '
+                                                        'activity ideas for '
+                                                        'kids, crafts, and all '
+                                                        'things Sago Mini. '
+                                                        'Check back for weekly '
+                                                        'blog updates!'}],
+                        'cse_image': [{'src': 'https://sagomini.com/workspace/uploads/blog/sagominiworld_springupdate_header-1556904091.png'}]}},
+           {'kind': 'customsearch#result',
+            'title': 'Sago Mini School (Kids 2-5) - Apps on Google Play',
+            'htmlTitle': '<b>Sago Mini School</b> (<b>Kids</b> 2-5) - Apps on '
+                         '<b>Google Play</b>',
+            'link': 'https://play.google.com/store/apps/details?id=com.sagosago.School.googleplay&hl=en_US&gl=US',
+            'displayLink': 'play.google.com',
+            'snippet': 'Nov 30, 2023 ... Sago Mini School is the best learning '
+                       'app for kindergarten readiness! Discover 300+ '
+                       'kindergarten learning games for ages 2-5 that '
+                       'develop\xa0...',
+            'htmlSnippet': 'Nov 30, 2023 <b>...</b> <b>Sago Mini School</b> is '
+                           'the best learning app for kindergarten readiness! '
+                           'Discover 300+ kindergarten learning <b>games</b> '
+                           'for ages 2-5 that develop&nbsp;...',
+            'cacheId': '33s0wj9p1DcJ',
+            'formattedUrl': 'https://play.google.com/store/apps/details?id...sagosago...googleplay...',
+            'htmlFormattedUrl': 'https://<b>play</b>.<b>google</b>.com/store/apps/details?id...<b>sagosago</b>...<b>googleplay</b>...',
+            'pagemap': {'offer': [{'price': '0',
+                                   'url': 'https://play.google.com/store/apps/details?id=com.sagosago.School.googleplay&rdid=com.sagosago.School.googleplay&feature=md&offerId'}],
+                        'cse_thumbnail': [{'src': 'https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR_YEIHdA-d4kyOuvHUDEf-96R20YvpPPrGmbbgv4YLYqTDHYVs0qbXL6k',
+                                           'width': '225',
+                                           'height': '225'}],
+                        'metatags': [{'og:image': 'https://play-lh.googleusercontent.com/XFzx1wfX3SpTCAgGeB5UeNgg5h8hkZM9Ro29q8EzTdPEJzCUYVCOQcFmKkGL0JDaokQ',
+                                      'og:type': 'website',
+                                      'twitter:card': 'summary_large_image',
+                                      'twitter:title': 'Sago Mini School (Kids '
+                                                       '2-5) - Apps on Google '
+                                                       'Play',
+                                      'twitter:url': 'https://play.google.com/store/apps/details?id=com.sagosago.School.googleplay&hl=en_US',
+                                      'appstore:developer_url': 'https://sagomini.com/school/',
+                                      'og:title': 'Sago Mini School (Kids 2-5) '
+                                                  '- Apps on Google Play',
+                                      'twitter:image': 'https://play-lh.googleusercontent.com/XFzx1wfX3SpTCAgGeB5UeNgg5h8hkZM9Ro29q8EzTdPEJzCUYVCOQcFmKkGL0JDaokQ=w600-h300-pc0xffffff-pd',
+                                      'appstore:bundle_id': 'com.sagosago.School.googleplay',
+                                      'referrer': 'origin',
+                                      'twitter:site': '@GooglePlay',
+                                      'appstore:store_id': 'com.sagosago.School.googleplay',
+                                      'viewport': 'width=device-width, '
+                                                  'initial-scale=1',
+                                      'apple-mobile-web-app-capable': 'yes',
+                                      'twitter:description': 'Preschool kids '
+                                                             'learning games.',
+                                      'mobile-web-app-capable': 'yes',
+                                      'og:url': 'https://play.google.com/store/apps/details?id=com.sagosago.School.googleplay&hl=en_US'}],
+                        'cse_image': [{'src': 'https://play-lh.googleusercontent.com/XFzx1wfX3SpTCAgGeB5UeNgg5h8hkZM9Ro29q8EzTdPEJzCUYVCOQcFmKkGL0JDaokQ'}]}},
+           {'kind': 'customsearch#result',
+            'title': 'Mixed Reactions to Sago Mini World Kids Games App - '
+                     'Kimola',
+            'htmlTitle': 'Mixed Reactions to <b>Sago Mini World Kids Games</b> '
+                         'App - Kimola',
+            'link': 'https://kimola.com/reports/explore-user-perspectives-on-sago-mini-world-with-our-report-google-play-en-us-141899',
+            'displayLink': 'kimola.com',
+            'snippet': 'This page is a research report based on the analysis '
+                       'of online reviews collected from Google Play. It '
+                       'contains the top 30 recent reviews with their '
+                       'sentiment\xa0...',
+            'htmlSnippet': 'This page is a research report based on the '
+                           'analysis of online reviews collected from '
+                           '<b>Google Play</b>. It contains the top 30 recent '
+                           'reviews with their sentiment&nbsp;...',
+            'cacheId': 'N81QqRJiP_MJ',
+            'formattedUrl': 'https://kimola.com/.../explore-user-perspectives-on-sago-mini-world-with-o...',
+            'htmlFormattedUrl': 'https://kimola.com/.../explore-user-perspectives-on-<b>sago</b>-<b>mini</b>-<b>world</b>-with-o...',
+            'pagemap': {'metatags': [{'og:image': '/images/kimola-og.png',
+                                      'og:type': 'website',
+                                      'og:site_name': 'Kimola',
+                                      'kimola:method-setrecords-duration': '0.04',
+                                      'kimola:method-setposts-duration': '0',
+                                      'og:title': 'Mixed Reactions to Sago '
+                                                  'Mini World Kids Games App',
+                                      'kimola:method-setcommonschemes-duration': '0',
+                                      'kimola:method-getscheme-duration': '0.03',
+                                      'kimola:method-setpackage-duration': '0',
+                                      'kimola:method-setstatistics-duration': '0.04',
+                                      'kimola:method-onget-duration': '0.04',
+                                      'kimola:method-setcommonfields-duration': '0',
+                                      'og:description': 'Uncover mixed user '
+                                                        'feedback on Sago Mini '
+                                                        'World: Kids Games '
+                                                        'with our '
+                                                        'comprehensive '
+                                                        'analysis report. '
+                                                        'Ideal for market '
+                                                        'insights.',
+                                      'viewport': 'width=device-width, '
+                                                  'initial-scale=1.0',
+                                      'og:url': 'https://kimola.com/reports/explore-user-perspectives-on-sago-mini-world-with-our-report-google-play-en-us-141899',
+                                      'kimola:method-setsimilars-duration': '0.03',
+                                      'kimola:method-getreportbyslug-duration': '0.02',
+                                      'kimola:method-getreportbycode-duration': '0.03'}],
+                        'cse_image': [{'src': '/images/kimola-og.png'}]}},
+           {'kind': 'customsearch#result',
+            'title': 'Sago Mini: Kids Learning Apps | Kids Toys & Toddler Apps',
+            'htmlTitle': '<b>Sago Mini</b>: <b>Kids</b> Learning Apps | '
+                         '<b>Kids</b> Toys &amp; <b>Toddler</b> Apps',
+            'link': 'https://sagomini.com/',
+            'displayLink': 'sagomini.com',
+            'snippet': 'Sago Mini is an award-winning kids app & toy company '
+                       'devoted to educational play. Download our apps for '
+                       'free today! For kids. For parents. For giggles.',
+            'htmlSnippet': '<b>Sago Mini</b> is an award-winning <b>kids</b> '
+                           'app &amp; toy company devoted to educational '
+                           '<b>play</b>. Download our apps for free today! For '
+                           '<b>kids</b>. For parents. For giggles.',
+            'cacheId': 'bb9wfIxyGx8J',
+            'formattedUrl': 'https://sagomini.com/',
+            'htmlFormattedUrl': 'https://<b>sagomini</b>.com/',
+            'pagemap': {'cse_thumbnail': [{'src': 'https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS5iSw-oMuCQ3tfauD2DYwbzrylzghcrcvsQTU9rDuFK6Iz-VtRz9HwtvY',
+                                           'width': '311',
+                                           'height': '162'}],
+                        'metatags': [{'og:image': 'https://sagomini.com/workspace/uploads/config/share-1475272796.jpg',
+                                      'og:type': 'website',
+                                      'og:image:width': '1200',
+                                      'og:image:url': 'https://sagomini.com/workspace/uploads/config/share-1475272796.jpg',
+                                      'viewport': 'width=device-width, '
+                                                  'initial-scale=1, ui-minimal',
+                                      'og:image:height': '628',
+                                      'title': 'Kids Learning Apps | Kids Toys '
+                                               '& Toddler Apps | Sago Mini',
+                                      'og:url': 'https://sagomini.com/',
+                                      'msapplication-tileimage': 'https://sagomini.com/favicon.png',
+                                      'og:description': 'Sago Mini is an '
+                                                        'award-winning kids '
+                                                        'app & toy company '
+                                                        'devoted to '
+                                                        'educational play. '
+                                                        'Download our apps for '
+                                                        'free today! For kids. '
+                                                        'For parents. For '
+                                                        'giggles.'}],
+                        'cse_image': [{'src': 'https://sagomini.com/workspace/uploads/config/share-1475272796.jpg'}]}},
+           {'kind': 'customsearch#result',
+            'title': 'Mixed Reactions to Sago Mini World Kids Games App - '
+                     'Kimola',
+            'htmlTitle': 'Mixed Reactions to <b>Sago Mini World Kids Games</b> '
+                         'App - Kimola',
+            'link': 'https://kimola.com/reports/-141872',
+            'displayLink': 'kimola.com',
+            'snippet': 'Market research report based on customer feedback '
+                       'analysis for Sago Mini World: Kids Games - Apps on '
+                       'Google Play on Google Play.',
+            'htmlSnippet': 'Market research report based on customer feedback '
+                           'analysis for <b>Sago Mini World</b>: <b>Kids '
+                           'Games</b> - Apps on <b>Google Play</b> on '
+                           '<b>Google Play</b>.',
+            'cacheId': 'OT9gJu_yeAQJ',
+            'formattedUrl': 'https://kimola.com/reports/-141872',
+            'htmlFormattedUrl': 'https://kimola.com/reports/-141872',
+            'pagemap': {'cse_thumbnail': [{'src': 'https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTtLaGRkKsszvhK7SMKKm03bscZBVSiiuFsqrRzW3KPpsJ0A_GsAYRZhA',
+                                           'width': '120',
+                                           'height': '102'}],
+                        'metatags': [{'og:image': '/images/kimola-og.png',
+                                      'og:type': 'website',
+                                      'og:site_name': 'Kimola',
+                                      'kimola:method-setrecords-duration': '0.03',
+                                      'kimola:method-setposts-duration': '0',
+                                      'og:title': 'Mixed Reactions to Sago '
+                                                  'Mini World Kids Games App - '
+                                                  'Kimola',
+                                      'kimola:method-setpackage-duration': '0',
+                                      'kimola:method-setcommonreports-duration': '0',
+                                      'kimola:method-setstatistics-duration': '0.03',
+                                      'kimola:method-onget-duration': '0.04',
+                                      'kimola:method-setcommonfields-duration': '0',
+                                      'og:description': 'Market research '
+                                                        'report based on '
+                                                        'customer feedback '
+                                                        'analysis for Sago '
+                                                        'Mini World: Kids '
+                                                        'Games - Apps on '
+                                                        'Google Play on Google '
+                                                        'Play.',
+                                      'kimola:method-setreports-duration': '0.03',
+                                      'viewport': 'width=device-width, '
+                                                  'initial-scale=1.0',
+                                      'og:url': 'https://kimola.com/reports/-141872'}],
+                        'cse_image': [{'src': 'https://kimola.com/images/analysis-info.webp'}]}},
+           {'kind': 'customsearch#result',
+            'title': 'It is appalling how many garbage children games there '
+                     'are in the ...',
+            'htmlTitle': 'It is appalling how many garbage <b>children '
+                         'games</b> there are in the ...',
+            'link': 'https://www.reddit.com/r/iosgaming/comments/obrkmb/it_is_appalling_how_many_garbage_children_games/',
+            'displayLink': 'www.reddit.com',
+            'snippet': 'Jul 1, 2021 ... Besides Sago Mini, the Toca Boca games '
+                       'are good (get the World one or whatever that combines '
+                       'all of the individual apps into one place). The\xa0...',
+            'htmlSnippet': 'Jul 1, 2021 <b>...</b> Besides <b>Sago Mini</b>, '
+                           'the Toca Boca <b>games</b> are good (get the '
+                           '<b>World</b> one or whatever that combines all of '
+                           'the individual apps into one place). The&nbsp;...',
+            'formattedUrl': 'https://www.reddit.com/.../it_is_appalling_how_many_garbage_children_g...',
+            'htmlFormattedUrl': 'https://www.reddit.com/.../it_is_appalling_how_many_garbage_children_<b>g</b>...',
+            'pagemap': {'metatags': [{'og:image': 'https://share.redd.it/preview/post/obrkmb',
+                                      'theme-color': '#000000',
+                                      'og:image:width': '1200',
+                                      'og:type': 'website',
+                                      'og:image:alt': 'An image containing a '
+                                                      'preview of the post',
+                                      'twitter:card': 'summary_large_image',
+                                      'twitter:title': 'r/iosgaming on Reddit: '
+                                                       'It is appalling how '
+                                                       'many garbage children '
+                                                       'games there are in the '
+                                                       'app store',
+                                      'og:site_name': 'Reddit',
+                                      'og:title': 'r/iosgaming on Reddit: It '
+                                                  'is appalling how many '
+                                                  'garbage children games '
+                                                  'there are in the app store',
+                                      'og:image:height': '630',
+                                      'msapplication-navbutton-color': '#000000',
+                                      'og:description': 'Posted by u/Mithcol - '
+                                                        '249 votes and 70 '
+                                                        'comments',
+                                      'twitter:image': 'https://share.redd.it/preview/post/obrkmb',
+                                      'apple-mobile-web-app-status-bar-style': 'black',
+                                      'twitter:site': '@reddit',
+                                      'viewport': 'width=device-width, '
+                                                  'initial-scale=1, '
+                                                  'viewport-fit=cover',
+                                      'apple-mobile-web-app-capable': 'yes',
+                                      'og:ttl': '600',
+                                      'og:url': 'https://www.reddit.com/r/iosgaming/comments/obrkmb/it_is_appalling_how_many_garbage_children_games/'}],
+                        'cse_image': [{'src': 'https://share.redd.it/preview/post/obrkmb'}]}},
+           {'kind': 'customsearch#result',
+            'title': 'App Review: Sago Mini World: Kids Games - Owlkids - '
+                     'Owlkids',
+            'htmlTitle': 'App Review: Sago Mini World: Kids Games - Owlkids - '
+                         'Owlkids',
+            'link': 'https://www.owlkids.com/app-review-sago-mini-world-kids-games/',
+            'displayLink': 'www.owlkids.com',
+            'snippet': 'Oct 20, 2020 ... You can download Sago Mini World: '
+                       'Kids Games for free from the App Store and Google '
+                       'Play. If you try it, let us know in the comments '
+                       'below\xa0...',
+            'htmlSnippet': 'Oct 20, 2020 <b>...</b> You can download <b>Sago '
+                           'Mini World</b>: <b>Kids Games</b> for free from '
+                           'the App Store and <b>Google Play</b>. If you try '
+                           'it, let us know in the comments below&nbsp;...',
+            'cacheId': '-tP5c8PpSCsJ',
+            'formattedUrl': 'https://www.owlkids.com/app-review-sago-mini-world-kids-games/',
+            'htmlFormattedUrl': 'https://www.owl<b>kids</b>.com/app-review-<b>sago</b>-<b>mini</b>-<b>world</b>-<b>kids</b>-<b>games</b>/',
+            'pagemap': {'cse_thumbnail': [{'src': 'https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT8mZifLTN22Zrl7hXt88WUo-J4uzH055Lo5Pnh3MDxLNVerfQ-C43NZ8I',
+                                           'width': '297',
+                                           'height': '170'}],
+                        'metatags': [{'og:image': 'https://www.owlkids.com/wp-content/uploads/2020/10/963200_world_fair_newgame_emails_final_heroimage.png',
+                                      'og:type': 'article',
+                                      'article:published_time': '2020-10-20T13:00:45+00:00',
+                                      'twitter:card': 'summary_large_image',
+                                      'og:site_name': 'Owlkids',
+                                      'author': 'Mariam Ahmed',
+                                      'og:title': 'App Review: Sago Mini '
+                                                  'World: Kids Games - Owlkids',
+                                      'twitter:label1': 'Written by',
+                                      'twitter:label2': 'Est. reading time',
+                                      'og:description': 'Hey Chirp readers! I '
+                                                        'have a fun app to '
+                                                        'share with you today! '
+                                                        'Sago Mini World: Kids '
+                                                        'Games is an app '
+                                                        'designed for curious '
+                                                        'kids, filled with '
+                                                        'endless fun!',
+                                      'twitter:data1': 'Mariam Ahmed',
+                                      'twitter:data2': '1 minute',
+                                      'article:modified_time': '2020-10-16T22:21:19+00:00',
+                                      'viewport': 'width=device-width, '
+                                                  'initial-scale=1',
+                                      'og:locale': 'en_US',
+                                      'og:url': 'https://www.owlkids.com/app-review-sago-mini-world-kids-games/'}],
+                        'cse_image': [{'src': 'https://www.owlkids.com/wp-content/uploads/2020/10/963200_world_fair_newgame_emails_final_heroimage.png'}]}}]}
